@@ -18,6 +18,8 @@ Truyền thống cánh tả luôn tuyên truyền rằng Southern Strategy (Chi�
 
 ## Ben Shapiro chứng minh Southern Strategy (chiến lược miền Nam) là 1 thứ bịp bợm dối trá của cánh tả-đảng dân chủ Mỹ
 
+![](http://www.dailywire.com/sites/default/files/uploads/2017/07/ben_triumphant.jpg)
+
 Đây là 1 đoạn được trích từ 1 debate của Ben Shapiro và Cenk Uygur của TYT(1 công ty truyền thông cánh tả).
 
 Khi Uygur bị Ben Shapiro bắt bí bằng việc đưa ra các bằng chứng về việc đảng dân chủ cùng với các chiến dịch identity politics khơi màu bạo lực, thì ông ta muốn đảo ngược tình thế bằng việc lên án GOP cho Chiến lược miền Nam, một chiến thuật dơ bẩn mà ông đã sử dụng khi thảo luận với Dinesh D'Souza. Và Uygur cho rằng với chiến lược miền Nam thì GOP(đảng cộng hoà) mới là người sáng lập ra identity politics.

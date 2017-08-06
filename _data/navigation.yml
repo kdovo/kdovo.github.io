@@ -4,8 +4,38 @@
 - title: Articles
   url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: Civil Liberty
+  url: /civil_liberty/
+
+- title: Energy
+  url: /energy/
+
+- title: Economics
+  url: /economics/
+
+- title: Education
+  url: /education/
+
+- title: Environment
+  url: /environment/
+
+- title: Ethics
+  url: /ethics/
+
+- title: Government Waste
+  url: /government_waste/
+
+- title: Gun Control
+  url: /gun_control/
+
+- title: Health Care
+  url: /health_care/
+
+- title: History
+  url: /history/
+
+- title: Security
+  url: /security/
 
 - title: Search
   url: /search/
